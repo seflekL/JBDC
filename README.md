@@ -79,5 +79,5 @@ public class JBDCExample {
     }
 }
 📫 İletişim
-<br><br> Projeyi geliştiren kişiye ulaşmak için:
+Projeyi geliştiren kişiye ulaşmak için:
 GitHub: seflekL
